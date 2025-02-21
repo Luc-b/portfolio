@@ -1,0 +1,43 @@
+body{
+    background-color: #f6f5f4!important;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: #623405;
+}
+
+a {
+    color: #623405 !important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+.social-links ul, li {
+    display: block;
+}
+
+.social {
+    width: 20px;
+    height: 20px;
+}
+
+.arrow {
+    color: #7b440b;
+    display: inline; 
+    margin-right: 8px; 
+}
